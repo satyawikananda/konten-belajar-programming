@@ -18,6 +18,10 @@ Untuk menambahkan daftar, menemukan kesalahan tautan, typo, atau memperbaharui d
 
 ## B<a name="b"></a>
 
+### Bagicode
+
+[Website](https://bagicode.com/) | [Instagram](https://www.instagram.com/bagicode) | [Youtube](https://www.youtube.com/c/Bagicode/) | [Github](https://github.com/bagi-code)
+
 ### BaliJS 
 
 [Website](https://balijs.org/) | [Github](https://github.com/BaliJS) | [Telegram](https://t.me/balijs)
