@@ -1,24 +1,26 @@
 # Website, konten, & komunitas seputar pemrograman di Indonesia
+
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
+
 [![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
+
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 [![Saweria](https://img.shields.io/badge/saweria-10rb-blue)](https://saweria.co/adisetiawan) [![Trakteer](https://img.shields.io/badge/trakteer-10rb-orange)](https://trakteer.id/inacode) [![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/adisetiawan/konten-belajar-programming/blob/master/LICENSE)
 
-Untuk menambahkan daftar, menemukan kesalahan tautan, typo, atau memperbaharui daftar,  silahkan `fork` dan `pull request`. Diurutkan berdasarkan alfabet
+Untuk menambahkan daftar, menemukan kesalahan tautan, typo, atau memperbaharui daftar, silahkan `fork` dan `pull request`. Diurutkan berdasarkan alfabet
 
-[A](#a) | [B](#b) | [C](#c) | [D](#d) | [E](#e) | [F](#f) | [G](#g) | [H](#h) | [I](#i) | [J](#j) | [K](#k) | [L](#l) | [M](#m) | [N](#n) | [O](#o) | [P](#p) | [Q](#q) | [R](#r) | [S](#s) | [T](#t) | [U](#u) | [V](#v) | [W](#w) | [X](#x) | [Y](#y) | [Z](#z) | [Lain-lain](#lain) 
-
+[A](#a) | [B](#b) | [C](#c) | [D](#d) | [E](#e) | [F](#f) | [G](#g) | [H](#h) | [I](#i) | [J](#j) | [K](#k) | [L](#l) | [M](#m) | [N](#n) | [O](#o) | [P](#p) | [Q](#q) | [R](#r) | [S](#s) | [T](#t) | [U](#u) | [V](#v) | [W](#w) | [X](#x) | [Y](#y) | [Z](#z) | [Lain-lain](#lain)
 
 ## A<a name="a"></a>
 
-### Arkademy 
+### Arkademy
 
 [Website](https://www.arkademy.com/) | [Instagram](https://www.instagram.com/arkademy/) | [Youtube](https://www.youtube.com/arkademy) | [Facebook](https://www.facebook.com/arkademycom/)
 
 ## B<a name="b"></a>
 
-### BaliJS 
+### BaliJS
 
 [Website](https://balijs.org/) | [Github](https://github.com/BaliJS) | [Telegram](https://t.me/balijs)
 
@@ -68,19 +70,11 @@ Untuk menambahkan daftar, menemukan kesalahan tautan, typo, atau memperbaharui d
 
 ## E<a name="e"></a>
 
-
-
 ## F<a name="f"></a>
-
-
 
 ## G<a name="g"></a>
 
-
-
 ## H<a name="h"></a>
-
-
 
 ## I<a name="i"></a>
 
@@ -102,7 +96,7 @@ Untuk menambahkan daftar, menemukan kesalahan tautan, typo, atau memperbaharui d
 
 ### Kawan Koding
 
-[Website](https://kawankoding.com/)  | [Instagram](https://instagram.com/kawankoding) | [Facebook](https://instagram.com/kawankoding) | [Youtube](https://youtube.com/kawankoding) | [Telegram](https://t.me/kawankoding)
+[Website](https://kawankoding.com/) | [Instagram](https://instagram.com/kawankoding) | [Facebook](https://instagram.com/kawankoding) | [Youtube](https://youtube.com/kawankoding) | [Telegram](https://t.me/kawankoding)
 
 ### Konsep Koding
 
@@ -116,17 +110,13 @@ Untuk menambahkan daftar, menemukan kesalahan tautan, typo, atau memperbaharui d
 
 [Youtube](https://www.youtube.com/c/KelasTerbuka)
 
-
 ## L<a name="l"></a>
-
-
 
 ## M<a name="m"></a>
 
 ### MDN Web Docs
 
 [Website](https://developer.mozilla.org/id/)
-
 
 ### MalesCast
 
@@ -138,11 +128,7 @@ Untuk menambahkan daftar, menemukan kesalahan tautan, typo, atau memperbaharui d
 
 ## N<a name="n"></a>
 
-
-
 ## O<a name="o"></a>
-
-
 
 ## P<a name="p"></a>
 
@@ -170,13 +156,13 @@ Untuk menambahkan daftar, menemukan kesalahan tautan, typo, atau memperbaharui d
 
 [Website](https://www.pythonindo.com/)
 
+### PasuruanDev
+
+[Website](https://pasuruandev.github.io/) | [Instagram](https://www.instagram.com/pasuruan.dev) | [Facebook](https://www.facebook.com/PasuruanDev/) | [Telegram](https://t.me/pasuruandev)
+
 ## Q<a name="q"></a>
 
-
-
 ## R<a name="r"></a>
-
-
 
 ## S<a name="s"></a>
 
@@ -186,19 +172,13 @@ Untuk menambahkan daftar, menemukan kesalahan tautan, typo, atau memperbaharui d
 
 ## T<a name="t"></a>
 
-
-
 ## U<a name="u"></a>
-
-
 
 ## V<a name="v"></a>
 
-
-
 ## W<a name="w"></a>
 
-### Web Programming UNPAS 
+### Web Programming UNPAS
 
 [Youtube](https://www.youtube.com/c/WebProgrammingUNPAS)
 
@@ -207,8 +187,6 @@ Untuk menambahkan daftar, menemukan kesalahan tautan, typo, atau memperbaharui d
 [Website](https://www.wegodev.com/) | [Youtube](https://www.youtube.com/channel/UCs_0NrpKqceSAcO7mrJv-1g)
 
 ## X<a name="x"></a>
-
-
 
 ## Y<a name="y"></a>
 
@@ -223,7 +201,6 @@ Untuk menambahkan daftar, menemukan kesalahan tautan, typo, atau memperbaharui d
 [Youtube](https://www.youtube.com/c/ZirEducation)
 
 ## Lain-lain<a name="lain"></a>
-
 
 ## Contributors ✨
 
@@ -240,6 +217,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 
 <!-- markdownlint-enable -->
 <!-- prettier-ignore-end -->
+
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
 This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
